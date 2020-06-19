@@ -1,7 +1,6 @@
 # Mock Stock, for Planet Earth
 Apple WWDC20 Swift Student Challenge winning project programmed on Xcode 11 Swift Playgrounds as an interactive live-view scene.
 
-### About the project
 The project has been built upon many different disciplines including astrononmy, finance, environment, mathematics, and software development to propagate the environmental cause in the form of a mock-stock.
 The project involves mock trading of shares of Earth, Mars, Moon and Kepler 452-b exoplanet through a storyline based on the facts and projections of thousands of years to give an outlook of what the future holds for the world.
 
