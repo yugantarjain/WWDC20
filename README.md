@@ -1,4 +1,4 @@
-# Mock Stock, for Planet Earth 🌍
+# Mock Stock, for Planet Earth
 Apple WWDC20 Swift Student Challenge winning project programmed on Xcode 11 Swift Playgrounds as an interactive live-view scene. 
 
 The project has been built upon many different disciplines including astrononmy, finance, environment, mathematics, and software development to propagate the environmental cause in the form of a mock-stock.
