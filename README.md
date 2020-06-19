@@ -18,5 +18,3 @@ Experiencing this shall help in getting a basic understanding about stock tradin
 ![Trading](https://github.com/yugantarjain/WWDC20/blob/master/Screenshots/Trading.png)
 
 ![Portfolio](https://github.com/yugantarjain/WWDC20/blob/master/Screenshots/FinalPortfolio.png)
-
-![Thank You](https://github.com/yugantarjain/WWDC20/blob/master/Screenshots/ThankYou.png)
